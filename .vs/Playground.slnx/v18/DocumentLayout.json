@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "B:\\Users\\dev\\Widget\\Playground\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A9A0FF1-B1C7-B473-2247-6E2812719A3D}|Playground.csproj|b:\\users\\dev\\widget\\playground\\playground.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6A9A0FF1-B1C7-B473-2247-6E2812719A3D}|Playground.csproj|solutionrelative:playground.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A9A0FF1-B1C7-B473-2247-6E2812719A3D}|Playground.csproj|b:\\users\\dev\\widget\\playground\\widgetprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A9A0FF1-B1C7-B473-2247-6E2812719A3D}|Playground.csproj|solutionrelative:widgetprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A9A0FF1-B1C7-B473-2247-6E2812719A3D}|Playground.csproj|b:\\users\\dev\\widget\\playground\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A9A0FF1-B1C7-B473-2247-6E2812719A3D}|Playground.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A9A0FF1-B1C7-B473-2247-6E2812719A3D}|Playground.csproj|b:\\users\\dev\\widget\\playground\\models\\compactwidgetinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A9A0FF1-B1C7-B473-2247-6E2812719A3D}|Playground.csproj|solutionrelative:models\\compactwidgetinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A9A0FF1-B1C7-B473-2247-6E2812719A3D}|Playground.csproj|b:\\users\\dev\\widget\\playground\\services\\catfactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A9A0FF1-B1C7-B473-2247-6E2812719A3D}|Playground.csproj|solutionrelative:services\\catfactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A9A0FF1-B1C7-B473-2247-6E2812719A3D}|Playground.csproj|b:\\users\\dev\\widget\\playground\\templates\\catfacttemplate.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6A9A0FF1-B1C7-B473-2247-6E2812719A3D}|Playground.csproj|solutionrelative:templates\\catfacttemplate.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A9A0FF1-B1C7-B473-2247-6E2812719A3D}|Playground.csproj|b:\\users\\dev\\widget\\playground\\templates\\loadingtemplate.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6A9A0FF1-B1C7-B473-2247-6E2812719A3D}|Playground.csproj|solutionrelative:templates\\loadingtemplate.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WidgetProvider.cs",
+              "DocumentMoniker": "B:\\Users\\dev\\Widget\\Playground\\WidgetProvider.cs",
+              "RelativeDocumentMoniker": "WidgetProvider.cs",
+              "ToolTip": "B:\\Users\\dev\\Widget\\Playground\\WidgetProvider.cs",
+              "RelativeToolTip": "WidgetProvider.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAjwFIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T14:47:28.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "B:\\Users\\dev\\Widget\\Playground\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "B:\\Users\\dev\\Widget\\Playground\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T13:38:32.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Playground.csproj",
+              "DocumentMoniker": "B:\\Users\\dev\\Widget\\Playground\\Playground.csproj",
+              "RelativeDocumentMoniker": "Playground.csproj",
+              "ToolTip": "B:\\Users\\dev\\Widget\\Playground\\Playground.csproj",
+              "RelativeToolTip": "Playground.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-04T13:52:00.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CompactWidgetInfo.cs",
+              "DocumentMoniker": "B:\\Users\\dev\\Widget\\Playground\\Models\\CompactWidgetInfo.cs",
+              "RelativeDocumentMoniker": "Models\\CompactWidgetInfo.cs",
+              "ToolTip": "B:\\Users\\dev\\Widget\\Playground\\Models\\CompactWidgetInfo.cs",
+              "RelativeToolTip": "Models\\CompactWidgetInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T14:44:18.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CatFactService.cs",
+              "DocumentMoniker": "B:\\Users\\dev\\Widget\\Playground\\Services\\CatFactService.cs",
+              "RelativeDocumentMoniker": "Services\\CatFactService.cs",
+              "ToolTip": "B:\\Users\\dev\\Widget\\Playground\\Services\\CatFactService.cs",
+              "RelativeToolTip": "Services\\CatFactService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T14:34:12.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CatFactTemplate.json",
+              "DocumentMoniker": "B:\\Users\\dev\\Widget\\Playground\\Templates\\CatFactTemplate.json",
+              "RelativeDocumentMoniker": "Templates\\CatFactTemplate.json",
+              "ToolTip": "B:\\Users\\dev\\Widget\\Playground\\Templates\\CatFactTemplate.json",
+              "RelativeToolTip": "Templates\\CatFactTemplate.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-04T14:02:22.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoadingTemplate.json",
+              "DocumentMoniker": "B:\\Users\\dev\\Widget\\Playground\\Templates\\LoadingTemplate.json",
+              "RelativeDocumentMoniker": "Templates\\LoadingTemplate.json",
+              "ToolTip": "B:\\Users\\dev\\Widget\\Playground\\Templates\\LoadingTemplate.json",
+              "RelativeToolTip": "Templates\\LoadingTemplate.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-04T14:04:51.619Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

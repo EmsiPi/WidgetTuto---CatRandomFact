@@ -1,0 +1,14 @@
+{
+  "type": "AdaptiveCard",
+  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+  "version": "1.6",
+  "body": [
+    {
+      "type": "TextBlock",
+      "text": "Loading latest fact...",
+      "isSubtle": true,
+      "wrap": true,
+      "height": "stretch"
+    }
+  ]
+}
